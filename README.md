@@ -1,4 +1,4 @@
-# regression_proect_data_science
+# regression_project_data_science
 Linear regression demonstration to check accuracy
 
 
